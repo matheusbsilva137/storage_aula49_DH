@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "87804137425",
+    "project_id": "fir-revisao-944e8",
+    "storage_bucket": "fir-revisao-944e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87804137425:android:deb4ff388ee1dcbc3e9af0",
+        "android_client_info": {
+          "package_name": "com.digitalhouse.firebaserevisao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87804137425-ttgt2a031hrvve7hit6h9n63hlobpouo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1H8LSMqpvbuYU70tIz7bB-6ambg5ryeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87804137425-ttgt2a031hrvve7hit6h9n63hlobpouo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87804137425:android:65b1ef6ffd539c4e3e9af0",
+        "android_client_info": {
+          "package_name": "com.digitalhouse.storage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87804137425-ttgt2a031hrvve7hit6h9n63hlobpouo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1H8LSMqpvbuYU70tIz7bB-6ambg5ryeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87804137425-ttgt2a031hrvve7hit6h9n63hlobpouo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
